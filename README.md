@@ -1,2 +1,3 @@
 # TicTacToe-Ai
-this project consist of a bot which is made from minmax algo which plays multiple moves to find best move and use that move to win or draw the tic tac toe game.
+Game consist of 2 players 1) human 2) bot
+bot is created using minimax algorithm to find best moves for bot to win the game or to draw the game.
